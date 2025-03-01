@@ -8,7 +8,7 @@ app.doc("/doc", {
   openapi: "3.0.0",
   info: {
     version: (deno_jsonc as { version: string }).version,
-    title: "GQL <=> HTTP proxy dev converter API",
+    title: "TODO: name your project API",
   },
 });
 
